@@ -1,0 +1,39 @@
+
+
+name: CI/Get File
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  schedule:
+    - cron: '50 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - name: Generate File
+        run: |
+          curl -s -L https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt https://easylist-downloads.adblockplus.org/malwaredomains_full.txt https://easylist-downloads.adblockplus.org/fanboy-social.txt > adblock.unsorted
+          sort -u adblock.unsorted | grep ^\|\|.*\^$ | grep -v \/ > adblock.sorted
+          sed 's/[\|^]//g' < adblock.sorted > adblock.hosts
+          rm adblock.unsorted adblock.sorted
+      - name: Upload file to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: adblock.hosts
+          asset_name: adblock.hosts
+          tag: ${{ github.ref }}
+          overwrite: true
+          body: ""
