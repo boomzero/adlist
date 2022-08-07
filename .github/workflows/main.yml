@@ -44,5 +44,5 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           file-path: ./adblock.hosts
-          owner:  Thomas311926 
+          owner: Thomas311926 
           repo: adlist
