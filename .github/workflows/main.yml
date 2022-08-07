@@ -36,4 +36,4 @@ jobs:
           asset_name: adblock.hosts
           tag: v1.0.0
           overwrite: true
-          body: ""
+          body: " "
