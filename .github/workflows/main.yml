@@ -46,3 +46,4 @@ jobs:
           file-path: adblock.hosts
           owner: Thomas311926
           repo: adlist
+          branch-name: main
