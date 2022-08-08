@@ -39,7 +39,7 @@ jobs:
           body: "Initial release"
       - name: Setup node
         uses: actions/setup-node@v1
-      - name: Upload to GitHub
+      - name: Upload file to GitHub
         uses: LasyIsLazy/github-upload-action@v0.1.0
         with:
           access-token: ${{ secrets.GITHUB_TOKEN }}
@@ -47,3 +47,4 @@ jobs:
           owner: Thomas311926
           repo: adlist
           branch-name: main
+          commit-message: "update file"
