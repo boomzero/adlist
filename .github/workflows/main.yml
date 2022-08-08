@@ -37,3 +37,12 @@ jobs:
           tag: v1.0.0
           overwrite: true
           body: "Initial release"
+      - name: Setup node
+        uses: actions/setup-node@v1
+      - name: Upload to GitHub
+        uses: LasyIsLazy/github-upload-action@v0.1.0
+        with:
+          access-token: ${{ secrets.GITHUB_TOKEN }}
+          file-path: adblock.hosts
+          owner: Thomas311926
+          repo: adlist
