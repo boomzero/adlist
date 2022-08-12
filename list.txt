@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 05 Aug 2022 13:47:35 GMT
-# entries:        3634
+# entries:        3629
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -227,7 +227,6 @@
 127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
 127.0.0.1 adcontent.gamespy.com
-127.0.0.1 adcontrolsolutions.net
 127.0.0.1 adcycle.com
 127.0.0.1 add.newmedia.cz
 127.0.0.1 addfreestats.com
@@ -1477,7 +1476,6 @@
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
-127.0.0.1 cosmopolitads.com
 127.0.0.1 count.rin.ru
 127.0.0.1 count.west263.com
 127.0.0.1 counted.com
@@ -2404,7 +2402,6 @@
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
-127.0.0.1 mysafeads.com
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
 127.0.0.1 mysteriousmonth.com
@@ -3146,7 +3143,6 @@
 127.0.0.1 superstats.com
 127.0.0.1 supertop.ru
 127.0.0.1 supertop100.com
-127.0.0.1 supertracking.net
 127.0.0.1 supply.colossusssp.com
 127.0.0.1 surfmusik-adserver.de
 127.0.0.1 surveygizmobeacon.s3.amazonaws.com
@@ -3230,7 +3226,6 @@
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
 127.0.0.1 thebugs.ws
-127.0.0.1 theclickads.com
 127.0.0.1 themoneytizer.com
 127.0.0.1 therapistla.com
 127.0.0.1 thinkablerice.com
