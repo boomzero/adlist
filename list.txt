@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 13 Aug 2022 21:49:32 GMT
-# entries:        3630
+# last updated:   Wed, 17 Aug 2022 00:43:57 GMT
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2524,6 +2524,7 @@
 127.0.0.1 openx.skinet.cz
 127.0.0.1 openx.smcaen.fr
 127.0.0.1 openx2.kytary.cz
+127.0.0.1 operationchicken.com
 127.0.0.1 operationkettle.com
 127.0.0.1 opienetwork.com
 127.0.0.1 opmnstr.com
