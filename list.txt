@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 17 Aug 2022 10:29:59 GMT
-# entries:        3635
+# entries:        3632
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1277,7 +1277,6 @@
 127.0.0.1 browser-http-intake.logs.datadoghq.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 bs.yandex.ru
-127.0.0.1 btez8.xyz
 127.0.0.1 btrll.com
 127.0.0.1 bttrack.com
 127.0.0.1 bucketbean.com
@@ -2935,7 +2934,6 @@
 127.0.0.1 separatesilver.com
 127.0.0.1 serv0.com
 127.0.0.1 servads.net
-127.0.0.1 servadsdisrupt.com
 127.0.0.1 serve.tercept.com
 127.0.0.1 servedby-buysellads.com
 127.0.0.1 servedbyadbutler.com
@@ -3551,7 +3549,6 @@
 127.0.0.1 whiskyqueue.com
 127.0.0.1 whispa.com
 127.0.0.1 whisperingcrib.com
-127.0.0.1 whisperingflesh.com
 127.0.0.1 whoisonline.net
 127.0.0.1 wickedreports.com
 127.0.0.1 widespace.com
