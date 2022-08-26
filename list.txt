@@ -353,6 +353,7 @@
 127.0.0.1 adreporting.com
 127.0.0.1 adrevolver.com
 127.0.0.1 adriver.ru
+127.0.0.1 adrolays.de
 127.0.0.1 adrotate.de
 127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adrta.com
@@ -1459,8 +1460,8 @@
 127.0.0.1 consensad.com
 127.0.0.1 consensu.org
 127.0.0.1 contadores.miarroba.com
+127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
-127.0.0.1 content.ad
 127.0.0.1 content22.online.citi.com
 127.0.0.1 contextweb.com
 127.0.0.1 converge-digital.com
@@ -2762,7 +2763,6 @@
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
-127.0.0.1 rads.alfamedia.pl
 127.0.0.1 rads.realadmin.pl
 127.0.0.1 railwayrainstorm.com
 127.0.0.1 railwayreason.com
