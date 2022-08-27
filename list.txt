@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 20 Aug 2022 11:08:33 GMT
-# entries:        3633
+# last updated:   Sat, 27 Aug 2022 16:37:35 GMT
+# entries:        3634
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2265,6 +2265,7 @@
 127.0.0.1 marketing.osijek031.com
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 marketo.com
+127.0.0.1 marriedbelief.com
 127.0.0.1 mas.sector.sk
 127.0.0.1 massivemark.com
 127.0.0.1 matchcraft.com
