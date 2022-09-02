@@ -1111,7 +1111,6 @@
 127.0.0.1 banner.eurogrand.com
 127.0.0.1 banner.finzoom.ro
 127.0.0.1 banner.goldenpalace.com
-127.0.0.1 banner.icmedia.eu
 127.0.0.1 banner.img.co.za
 127.0.0.1 banner.inyourpocket.com
 127.0.0.1 banner.linux.se
@@ -1200,6 +1199,7 @@
 127.0.0.1 benfly.net
 127.0.0.1 berp.com
 127.0.0.1 bestboundary.com
+127.0.0.1 bestsearch.net
 127.0.0.1 bewilderedblade.com
 127.0.0.1 bfmio.com
 127.0.0.1 bhcumsc.com
@@ -1467,6 +1467,7 @@
 127.0.0.1 contadores.miarroba.com
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
+127.0.0.1 content.ad
 127.0.0.1 content22.online.citi.com
 127.0.0.1 contextweb.com
 127.0.0.1 converge-digital.com
@@ -1915,7 +1916,6 @@
 127.0.0.1 greyinstrument.com
 127.0.0.1 greystripe.com
 127.0.0.1 groundtruth.com
-127.0.0.1 grychiphidu.com
 127.0.0.1 gscontxt.net
 127.0.0.1 gstaticx.com
 127.0.0.1 guardedschool.com
