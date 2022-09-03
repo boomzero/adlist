@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 01 Sep 2022 16:46:05 GMT
+# last updated:   Sat, 03 Sep 2022 19:08:44 GMT
 # entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -2074,7 +2074,6 @@
 127.0.0.1 intelliads.com
 127.0.0.1 intelligenceadx.com
 127.0.0.1 intellitxt.com
-127.0.0.1 intentsify.io
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 intercom-clicks.com
 127.0.0.1 intergi.com
@@ -3366,6 +3365,7 @@
 127.0.0.1 tracking.exipure.com
 127.0.0.1 tracking.hyros.com
 127.0.0.1 tracking.ibxlink.com
+127.0.0.1 tracking.intentsify.io
 127.0.0.1 tracking.internetstores.de
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.jiffyworld.com
