@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 03 Sep 2022 19:08:44 GMT
-# entries:        3671
+# last updated:   Thu, 08 Sep 2022 19:30:09 GMT
+# entries:        3673
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1065,6 +1065,7 @@
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
 127.0.0.1 ato.mx
+127.0.0.1 attractionbanana.com
 127.0.0.1 attractiveafternoon.com
 127.0.0.1 attribution.report
 127.0.0.1 atwola.com
@@ -2408,6 +2409,7 @@
 127.0.0.1 mtrcs.samba.tv
 127.0.0.1 mtree.com
 127.0.0.1 munchkin.marketo.net
+127.0.0.1 mundanenail.com
 127.0.0.1 mundanepollution.com
 127.0.0.1 musiccounter.ru
 127.0.0.1 muwmedia.com
