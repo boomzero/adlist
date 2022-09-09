@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 08 Sep 2022 19:30:09 GMT
-# entries:        3673
+# entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1217,7 +1217,6 @@
 127.0.0.1 bigclicks.com
 127.0.0.1 bigreal.org
 127.0.0.1 billboard.cz
-127.0.0.1 biosda.com
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bizad.nikkeibp.co.jp
 127.0.0.1 bizarrebaseball.com
@@ -2241,7 +2240,6 @@
 127.0.0.1 look.opskln.com
 127.0.0.1 look.ufinkln.com
 127.0.0.1 loopme.com
-127.0.0.1 lop.com
 127.0.0.1 loudlunch.com
 127.0.0.1 lp3tdqle.com
 127.0.0.1 lucidmedia.com
