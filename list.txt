@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 08 Sep 2022 19:30:09 GMT
-# entries:        3671
+# last updated:   Sun, 11 Sep 2022 10:18:00 GMT
+# entries:        3674
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -951,6 +951,7 @@
 127.0.0.1 affiliatewindow.com
 127.0.0.1 affiliation-france.com
 127.0.0.1 afftracking.justanswer.com
+127.0.0.1 afraidlanguage.com
 127.0.0.1 agkn.com
 127.0.0.1 agreeablestew.com
 127.0.0.1 ah-ha.com
@@ -1484,6 +1485,7 @@
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
+127.0.0.1 cosmosjackson.com
 127.0.0.1 count.rin.ru
 127.0.0.1 count.west263.com
 127.0.0.1 counted.com
@@ -2300,6 +2302,7 @@
 127.0.0.1 mcdlks.com
 127.0.0.1 measure.office.com
 127.0.0.1 measuremap.com
+127.0.0.1 meatydime.com
 127.0.0.1 media-adrunner.mycomputer.com
 127.0.0.1 media-servers.net
 127.0.0.1 media.funpic.de
