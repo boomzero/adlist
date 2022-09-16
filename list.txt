@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 11 Sep 2022 10:18:00 GMT
-# entries:        3674
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1384,7 +1384,6 @@
 127.0.0.1 click.twcwigs.com
 127.0.0.1 click2freemoney.com
 127.0.0.1 click360v2-ingest.azurewebsites.net
-127.0.0.1 clickability.com
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickbank.com
@@ -2470,7 +2469,6 @@
 127.0.0.1 newnet.qsrch.com
 127.0.0.1 newnudecash.com
 127.0.0.1 newopenx.detik.com
-127.0.0.1 newsadsppush.com
 127.0.0.1 newsletter-link.com
 127.0.0.1 newstarads.com
 127.0.0.1 newt1.adultadworld.com
@@ -3203,7 +3201,6 @@
 127.0.0.1 t.insigit.com
 127.0.0.1 t.irtyd.com
 127.0.0.1 t.leady.com
-127.0.0.1 t.news.browns-restaurants.co.uk
 127.0.0.1 t.notif-colissimo-laposte.info
 127.0.0.1 t.salesmatemail.com
 127.0.0.1 t.vacations.disneydestinations.com
@@ -3267,6 +3264,7 @@
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
 127.0.0.1 thebugs.ws
+127.0.0.1 theclickads.com
 127.0.0.1 themoneytizer.com
 127.0.0.1 therapistla.com
 127.0.0.1 thinkablerice.com
