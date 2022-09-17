@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 11 Sep 2022 10:18:00 GMT
-# entries:        3672
+# last updated:   Sat, 17 Sep 2022 14:54:28 GMT
+# entries:        3673
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1324,6 +1324,7 @@
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
 127.0.0.1 causecherry.com
+127.0.0.1 cautiouscredit.com
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cdn.bannerflow.com
 127.0.0.1 cdn.branch.io
