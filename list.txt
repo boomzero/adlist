@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 17 Sep 2022 14:54:28 GMT
-# entries:        3673
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -112,7 +112,6 @@
 127.0.0.1 ad.abum.com
 127.0.0.1 ad.admitad.com
 127.0.0.1 ad.allboxing.ru
-127.0.0.1 ad.allstar.cz
 127.0.0.1 ad.altervista.org
 127.0.0.1 ad.amgdgt.com
 127.0.0.1 ad.anuntis.com
