@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 17 Sep 2022 14:54:28 GMT
-# entries:        3669
+# last updated:   Sat, 24 Sep 2022 04:31:57 GMT
+# entries:        3670
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2657,6 +2657,7 @@
 127.0.0.1 pluckytaste.com
 127.0.0.1 plugrush.com
 127.0.0.1 pocketmath.com
+127.0.0.1 pointlesshour.com
 127.0.0.1 pointroll.com
 127.0.0.1 pokkt.com
 127.0.0.1 popads.net
