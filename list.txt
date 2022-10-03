@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 02 Oct 2022 08:28:35 GMT
-# entries:        3669
+# last updated:   Mon, 03 Oct 2022 21:29:14 GMT
+# entries:        3670
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1887,6 +1887,7 @@
 127.0.0.1 go-clicks.de
 127.0.0.1 go-mpulse.net
 127.0.0.1 go-rank.de
+127.0.0.1 go.dhs.gov
 127.0.0.1 go.eu.sparkpostmail1.com
 127.0.0.1 go.icann.org
 127.0.0.1 go.usa.gov
