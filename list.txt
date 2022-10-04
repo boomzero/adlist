@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 03 Oct 2022 21:29:14 GMT
-# entries:        3670
+# last updated:   Tue, 04 Oct 2022 10:56:27 GMT
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1005,6 +1005,7 @@
 127.0.0.1 analytics.poolshool.com
 127.0.0.1 analytics.posttv.com
 127.0.0.1 analytics.samdd.me
+127.0.0.1 analytics.santander.co.uk
 127.0.0.1 analytics.siliconexpert.com
 127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.tiktok.com
@@ -2714,6 +2715,7 @@
 127.0.0.1 prosper.on-line-casino.ca
 127.0.0.1 protectcrev.com
 127.0.0.1 protectsubrev.com
+127.0.0.1 protestcopy.com
 127.0.0.1 proton-tm.com
 127.0.0.1 protraffic.com
 127.0.0.1 provenpixel.com
