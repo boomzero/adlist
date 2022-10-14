@@ -664,7 +664,6 @@
 127.0.0.1 ads.virtuopolitan.com
 127.0.0.1 ads.vnumedia.com
 127.0.0.1 ads.walkiberia.com
-127.0.0.1 ads.waps.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 ads.watson.ch
 127.0.0.1 ads.weather.ca
@@ -1216,6 +1215,7 @@
 127.0.0.1 bigclicks.com
 127.0.0.1 bigreal.org
 127.0.0.1 billboard.cz
+127.0.0.1 biosda.com
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bizad.nikkeibp.co.jp
 127.0.0.1 bizarrebaseball.com
@@ -1663,6 +1663,7 @@
 127.0.0.1 edaa.eu
 127.0.0.1 edgexads.com
 127.0.0.1 educationdynamics.com
+127.0.0.1 effectivemeasure.com
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
@@ -2567,7 +2568,6 @@
 127.0.0.1 outbrain.com
 127.0.0.1 overconfidentfood.com
 127.0.0.1 overture.com
-127.0.0.1 owebanalytics.com
 127.0.0.1 owebmoney.ru
 127.0.0.1 owlsr.us
 127.0.0.1 owneriq.net
