@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 12 Oct 2022 16:52:29 GMT
-# entries:        3673
+# last updated:   Fri, 14 Oct 2022 16:04:50 GMT
+# entries:        3675
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1513,6 +1513,7 @@
 127.0.0.1 crabbychin.com
 127.0.0.1 crakmedia.com
 127.0.0.1 craktraffic.com
+127.0.0.1 crashchance.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 cratecamera.com
@@ -1927,6 +1928,7 @@
 127.0.0.1 hadskiz.com
 127.0.0.1 haltingbadge.com
 127.0.0.1 hammerhearing.com
+127.0.0.1 handsomehose.com
 127.0.0.1 handyfield.com
 127.0.0.1 hardtofindmilk.com
 127.0.0.1 harrenmedia.com
