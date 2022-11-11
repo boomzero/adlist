@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 10 Nov 2022 14:25:42 GMT
-# entries:        3669
+# last updated:   Fri, 11 Nov 2022 18:13:20 GMT
+# entries:        3670
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3497,6 +3497,7 @@
 127.0.0.1 veille-referencement.com
 127.0.0.1 velismedia.com
 127.0.0.1 venetrigni.com
+127.0.0.1 vengefulgrass.com
 127.0.0.1 ventivmedia.com
 127.0.0.1 venturead.com
 127.0.0.1 verblife-5.co
