@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 10 Nov 2022 14:25:42 GMT
-# entries:        3670
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1628,7 +1628,6 @@
 127.0.0.1 doublepimp.com
 127.0.0.1 doubleverify.com
 127.0.0.1 doubtfulrainstorm.com
-127.0.0.1 downloadr.xyz
 127.0.0.1 dpbolvw.net
 127.0.0.1 dpu.samsungelectronics.com
 127.0.0.1 dq95d35.com
