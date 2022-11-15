@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 15 Nov 2022 12:26:52 GMT
-# entries:        3671
+# last updated:   Tue, 15 Nov 2022 18:24:08 GMT
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3242,6 +3242,7 @@
 127.0.0.1 tealium.cbsnews.com
 127.0.0.1 tealium.com
 127.0.0.1 tealiumiq.com
+127.0.0.1 tediousticket.com
 127.0.0.1 tedioustooth.com
 127.0.0.1 teenrevenue.com
 127.0.0.1 teenyvolcano.com
