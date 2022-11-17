@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 15 Nov 2022 20:12:04 GMT
-# entries:        3673
+# last updated:   Thu, 17 Nov 2022 13:13:28 GMT
+# entries:        3674
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1402,6 +1402,7 @@
 127.0.0.1 clicks.deliveroo.co.uk
 127.0.0.1 clicks.equantum.com
 127.0.0.1 clicks.mods.de
+127.0.0.1 clicks.monzo.com
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicktag.de
 127.0.0.1 clickthruserver.com
