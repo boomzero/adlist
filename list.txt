@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 18 Nov 2022 12:15:02 GMT
-# entries:        3668
+# last updated:   Mon, 21 Nov 2022 05:20:16 GMT
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2371,6 +2371,7 @@
 127.0.0.1 mmismm.com
 127.0.0.1 mmstat.com
 127.0.0.1 mmtro.com
+127.0.0.1 mntzrlt.net
 127.0.0.1 moartraffic.com
 127.0.0.1 moat.com
 127.0.0.1 moatads.com
