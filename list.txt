@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 28 Nov 2022 11:09:11 GMT
-# entries:        3677
+# last updated:   Wed, 30 Nov 2022 13:23:35 GMT
+# entries:        3678
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1892,6 +1892,7 @@
 127.0.0.1 go.dhs.gov
 127.0.0.1 go.eu.sparkpostmail1.com
 127.0.0.1 go.icann.org
+127.0.0.1 go.scmagazine.com
 127.0.0.1 go.usa.gov
 127.0.0.1 go2affise.com
 127.0.0.1 goingplatinum.com
