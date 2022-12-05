@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 30 Nov 2022 17:59:08 GMT
-# entries:        3675
+# last updated:   Mon, 05 Dec 2022 11:17:05 GMT
+# entries:        3676
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1374,6 +1374,7 @@
 127.0.0.1 click.fool.com
 127.0.0.1 click.hookupinyourcity.com
 127.0.0.1 click.hooligapps.com
+127.0.0.1 click.infoblox.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click.news.vans.com
 127.0.0.1 click.nl.npr.org
