@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 05 Dec 2022 11:17:05 GMT
-# entries:        3676
+# last updated:   Tue, 06 Dec 2022 09:23:58 GMT
+# entries:        3677
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -995,6 +995,7 @@
 127.0.0.1 analytics.jst.ai
 127.0.0.1 analytics.justuno.com
 127.0.0.1 analytics.live.com
+127.0.0.1 analytics.lucid.app
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 analytics.myfinance.com
