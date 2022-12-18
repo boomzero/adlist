@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 14 Dec 2022 17:25:54 GMT
-# entries:        3670
+# last updated:   Sun, 18 Dec 2022 09:48:45 GMT
+# entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1303,6 +1303,7 @@
 127.0.0.1 carbonads.net
 127.0.0.1 caringcast.com
 127.0.0.1 cartstack.com
+127.0.0.1 carvecakes.com
 127.0.0.1 casalemedia.com
 127.0.0.1 casalmedia.com
 127.0.0.1 cash4members.com
