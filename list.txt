@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 16 Jan 2023 15:59:01 GMT
-# entries:        3666
+# last updated:   Mon, 16 Jan 2023 18:14:06 GMT
+# entries:        3667
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1891,6 +1891,7 @@
 127.0.0.1 go.icann.org
 127.0.0.1 go.scmagazine.com
 127.0.0.1 go.usa.gov
+127.0.0.1 go.xlirdr.com
 127.0.0.1 go2affise.com
 127.0.0.1 goingplatinum.com
 127.0.0.1 goldstats.com
