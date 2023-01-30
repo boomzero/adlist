@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 18 Jan 2023 22:02:26 GMT
-# entries:        3665
+# last updated:   Mon, 30 Jan 2023 12:58:29 GMT
+# entries:        3666
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2409,6 +2409,7 @@
 127.0.0.1 mundanenail.com
 127.0.0.1 mundanepollution.com
 127.0.0.1 musiccounter.ru
+127.0.0.1 muteknife.com
 127.0.0.1 muwmedia.com
 127.0.0.1 mxptint.net
 127.0.0.1 myads.company
