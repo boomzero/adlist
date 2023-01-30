@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 30 Jan 2023 14:36:09 GMT
-# entries:        3668
+# last updated:   Mon, 30 Jan 2023 17:56:25 GMT
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1255,6 +1255,7 @@
 127.0.0.1 brandreachsys.com
 127.0.0.1 braze.eu
 127.0.0.1 breadbalance.com
+127.0.0.1 breahant.site
 127.0.0.1 breakableinsurance.com
 127.0.0.1 breaktime.com.tw
 127.0.0.1 brealtime.com
