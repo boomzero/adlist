@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 07 Feb 2023 02:06:07 GMT
-# entries:        3668
+# last updated:   Wed, 08 Feb 2023 13:24:47 GMT
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3358,6 +3358,7 @@
 127.0.0.1 tracking.42-01pr5-osm-secure.co.uk
 127.0.0.1 tracking.5-47737-bi.co.uk
 127.0.0.1 tracking.baypacketaddressepisode.makeup
+127.0.0.1 tracking.concedehousingstrainnotice.hair
 127.0.0.1 tracking.emilyclarkconsulting.com
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.exipure.com
@@ -3369,12 +3370,15 @@
 127.0.0.1 tracking.jiffyworld.com
 127.0.0.1 tracking.markethero.io
 127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.namerealopendrawflesh.makeup
 127.0.0.1 tracking.netalerts.io
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.orixa-media.com
 127.0.0.1 tracking.pastapplauddeterseminarproof.makeup
+127.0.0.1 tracking.playerobjectwordingbasinbank.makeup
 127.0.0.1 tracking.shopstyle.com
 127.0.0.1 tracking.thinkabt.com
+127.0.0.1 tracking.vagueunlikecowerscreamforbid.hair
 127.0.0.1 tracking.wetter.at
 127.0.0.1 tracking01.walmart.com
 127.0.0.1 tracking101.com
