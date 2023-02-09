@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 08 Feb 2023 14:45:13 GMT
-# entries:        3680
+# last updated:   Wed, 08 Feb 2023 23:27:19 GMT
+# entries:        3681
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 13 Feb 2003 00:00:00
+# start date:    Fri, 14 Feb 2003 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -3013,6 +3013,7 @@
 127.0.0.1 sizesidewalk.com
 127.0.0.1 sizmek.com
 127.0.0.1 skimresources.com
+127.0.0.1 skisofa.com
 127.0.0.1 skroutza.skroutz.gr
 127.0.0.1 skylink.vn
 127.0.0.1 sleepcartoon.com
