@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 13 Feb 2023 14:31:09 GMT
-# entries:        3679
+# last updated:   Mon, 13 Feb 2023 17:04:28 GMT
+# entries:        3680
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -962,6 +962,7 @@
 127.0.0.1 alexa-sitestats.s3.amazonaws.com
 127.0.0.1 alexametrics.com
 127.0.0.1 algorix.co
+127.0.0.1 aliasanvil.com
 127.0.0.1 alipromo.com
 127.0.0.1 all4spy.com
 127.0.0.1 allosponsor.com
