@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 21 Feb 2023 12:18:15 GMT
-# entries:        3738
+# last updated:   Tue, 21 Feb 2023 16:07:00 GMT
+# entries:        3739
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -221,6 +221,7 @@
 127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
 127.0.0.1 adcontent.gamespy.com
+127.0.0.1 adcovery.com
 127.0.0.1 adcycle.com
 127.0.0.1 add.newmedia.cz
 127.0.0.1 addfreestats.com
