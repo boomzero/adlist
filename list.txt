@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 21 Feb 2023 16:07:00 GMT
-# entries:        3739
+# last updated:   Fri, 24 Feb 2023 10:08:24 GMT
+# entries:        3741
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1392,6 +1392,7 @@
 127.0.0.1 click.hooligapps.com
 127.0.0.1 click.i.southwesternrailway.com
 127.0.0.1 click.infoblox.com
+127.0.0.1 click.justwatch.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click.mail.hotels.com
 127.0.0.1 click.mkt.grab.com
@@ -2039,6 +2040,7 @@
 127.0.0.1 i-i.lt
 127.0.0.1 i1img.com
 127.0.0.1 i1media.no
+127.0.0.1 i305175.net
 127.0.0.1 ia.iinfo.cz
 127.0.0.1 iad.anm.co.uk
 127.0.0.1 iadnet.com
