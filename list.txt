@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 24 Feb 2023 10:08:24 GMT
-# entries:        3747
+# last updated:   Fri, 24 Feb 2023 13:22:34 GMT
+# entries:        3749
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2495,6 +2495,7 @@
 127.0.0.1 ncaudienceexchange.com
 127.0.0.1 ndparking.com
 127.0.0.1 nedstatbasic.net
+127.0.0.1 needlessnorth.com
 127.0.0.1 needyneedle.com
 127.0.0.1 neighborlywatch.com
 127.0.0.1 nend.net
@@ -2632,6 +2633,7 @@
 127.0.0.1 pagefair.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pageranktop.com
+127.0.0.1 painstakingpickle.com
 127.0.0.1 paleleaf.com
 127.0.0.1 panickycurtain.com
 127.0.0.1 panickypancake.com
