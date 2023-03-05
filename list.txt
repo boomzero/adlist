@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 03 Mar 2023 22:20:00 GMT
-# entries:        3755
+# last updated:   Sun, 05 Mar 2023 21:32:34 GMT
+# entries:        3756
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2378,6 +2378,7 @@
 127.0.0.1 megapu.sh
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
+127.0.0.1 meijer.com
 127.0.0.1 mellowads.com
 127.0.0.1 meltmilk.com
 127.0.0.1 memorizeneck.com
