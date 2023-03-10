@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 07 Mar 2023 22:56:55 GMT
-# entries:        3756
+# last updated:   Fri, 10 Mar 2023 20:49:49 GMT
+# entries:        3757
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3053,6 +3053,7 @@
 127.0.0.1 shinystat.com
 127.0.0.1 shinystat.it
 127.0.0.1 shiveringspot.com
+127.0.0.1 shiverscissors.com
 127.0.0.1 shockinggrass.com
 127.0.0.1 shoppingads.com
 127.0.0.1 shrillspoon.com
