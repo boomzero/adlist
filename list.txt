@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 23 Mar 2023 22:00:53 GMT
-# entries:        3753
+# entries:        3750
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -826,7 +826,6 @@
 127.0.0.1 adsponse.de
 127.0.0.1 adspredictiv.com
 127.0.0.1 adspsp.com
-127.0.0.1 adsroller.com
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
@@ -2548,7 +2547,6 @@
 127.0.0.1 oas.roanoke.com
 127.0.0.1 oas.toronto.com
 127.0.0.1 oas.uniontrib.com
-127.0.0.1 oas.villagevoice.com
 127.0.0.1 oascentral.chicagobusiness.com
 127.0.0.1 oascentral.fortunecity.com
 127.0.0.1 oascentral.register.com
@@ -3400,7 +3398,6 @@
 127.0.0.1 track.flexlinkspro.com
 127.0.0.1 track.freemmo2017.com
 127.0.0.1 track.game18click.com
-127.0.0.1 track.homejobs.careers
 127.0.0.1 track.lettingaproperty.com
 127.0.0.1 track.mailalert.io
 127.0.0.1 track.mailerlite.com
