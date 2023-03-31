@@ -520,7 +520,6 @@
 127.0.0.1 ads.kabooaffiliates.com
 127.0.0.1 ads.kaktuz.net
 127.0.0.1 ads.kelbymediagroup.com
-127.0.0.1 ads.kinobox.cz
 127.0.0.1 ads.kinxxx.com
 127.0.0.1 ads.kompass.com
 127.0.0.1 ads.krawall.de
@@ -826,6 +825,7 @@
 127.0.0.1 adsponse.de
 127.0.0.1 adspredictiv.com
 127.0.0.1 adspsp.com
+127.0.0.1 adsroller.com
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
