@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 30 Mar 2023 21:35:25 GMT
-# entries:        3752
+# entries:        3750
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1907,7 +1907,6 @@
 127.0.0.1 getclicky.com
 127.0.0.1 getintent.com
 127.0.0.1 getmyads.com
-127.0.0.1 gfcim5.gq
 127.0.0.1 giddycoat.com
 127.0.0.1 glisteningsign.com
 127.0.0.1 globalismedia.com
@@ -2749,7 +2748,6 @@
 127.0.0.1 programattik.com
 127.0.0.1 projectwonderful.com
 127.0.0.1 promo.badoink.com
-127.0.0.1 promo.ulust.com
 127.0.0.1 promobenef.com
 127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
