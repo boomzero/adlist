@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 04 Apr 2023 21:08:49 GMT
-# entries:        3749
+# last updated:   Fri, 14 Apr 2023 00:40:51 GMT
+# entries:        3750
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1691,7 +1691,6 @@
 127.0.0.1 ecoupons.com
 127.0.0.1 edaa.eu
 127.0.0.1 edgexads.com
-127.0.0.1 educationdynamics.com
 127.0.0.1 effectivemeasure.com
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 eiv.baidu.com
@@ -1744,6 +1743,7 @@
 127.0.0.1 ero-advertising.com
 127.0.0.1 estat.com
 127.0.0.1 esty.com
+127.0.0.1 et.educationdynamics.com
 127.0.0.1 et.nytimes.com
 127.0.0.1 etahub.com
 127.0.0.1 etargetnet.com
@@ -3667,6 +3667,7 @@
 127.0.0.1 whoisonline.net
 127.0.0.1 wickedreports.com
 127.0.0.1 widespace.com
+127.0.0.1 widget.educationdynamics.com
 127.0.0.1 widget.privy.com
 127.0.0.1 widgetbucks.com
 127.0.0.1 wikia-ads.wikia.com
