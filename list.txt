@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 14 Apr 2023 00:40:51 GMT
-# entries:        3750
+# last updated:   Fri, 14 Apr 2023 09:39:05 GMT
+# entries:        3751
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -844,6 +844,7 @@
 127.0.0.1 adsynergy.com
 127.0.0.1 adsys.townnews.com
 127.0.0.1 adsystem.simplemachines.org
+127.0.0.1 adt598.com
 127.0.0.1 adtech-digital.ru
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
