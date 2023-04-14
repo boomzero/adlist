@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 14 Apr 2023 09:39:05 GMT
-# entries:        3751
+# entries:        3748
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -386,7 +386,6 @@
 127.0.0.1 ads.amdmb.com
 127.0.0.1 ads.amigos.com
 127.0.0.1 ads.annabac.com
-127.0.0.1 ads.aol.co.uk
 127.0.0.1 ads.apn.co.nz
 127.0.0.1 ads.appsgeyser.com
 127.0.0.1 ads.apteka254.ru
@@ -732,7 +731,6 @@
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.adverty.com
 127.0.0.1 adserver.anawe.cz
-127.0.0.1 adserver.aol.fr
 127.0.0.1 adserver.ariase.org
 127.0.0.1 adserver.bdoce.cl
 127.0.0.1 adserver.betandwin.de
@@ -1829,7 +1827,6 @@
 127.0.0.1 fireworkadservices.com
 127.0.0.1 fireworkanalytics.com
 127.0.0.1 fireworks-advertising.com
-127.0.0.1 first.nova.cz
 127.0.0.1 firstlightera.com
 127.0.0.1 flairadscpc.com
 127.0.0.1 flakyfeast.com
