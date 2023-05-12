@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 04 May 2023 11:43:45 GMT
-# entries:        3741
+# entries:        3737
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1151,7 +1151,6 @@
 127.0.0.1 banners.friendfinder.com
 127.0.0.1 banners.getiton.com
 127.0.0.1 banners.iq.pl
-127.0.0.1 banners.isoftmarketing.com
 127.0.0.1 banners.passion.com
 127.0.0.1 banners.payserve.com
 127.0.0.1 banners.resultonline.com
@@ -1333,7 +1332,6 @@
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.keywee.co
 127.0.0.1 cdn.onesignal.com
-127.0.0.1 cdn.panelbear.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdnondemand.org
 127.0.0.1 cedato.com
@@ -1745,7 +1743,6 @@
 127.0.0.1 etracker.com
 127.0.0.1 etracker.de
 127.0.0.1 eu-adcenter.net
-127.0.0.1 eu1.madsone.com
 127.0.0.1 eule1.pmu.fr
 127.0.0.1 eulerian.net
 127.0.0.1 eurekster.com
@@ -2289,7 +2286,6 @@
 127.0.0.1 madinad.com
 127.0.0.1 madisonavenue.com
 127.0.0.1 madvertise.de
-127.0.0.1 magicadz.co
 127.0.0.1 magicaljoin.com
 127.0.0.1 magicalmonth.com
 127.0.0.1 magnificentmist.com
@@ -2667,7 +2663,6 @@
 127.0.0.1 pheedo.com
 127.0.0.1 phoenix-adrunner.mycomputer.com
 127.0.0.1 photographpan.com
-127.0.0.1 phpadsnew.new.natuurpark.nl
 127.0.0.1 physicalbikes.com
 127.0.0.1 piano.io
 127.0.0.1 picadmedia.com
@@ -3365,6 +3360,7 @@
 127.0.0.1 top100.mafia.ru
 127.0.0.1 top123.ro
 127.0.0.1 top20free.com
+127.0.0.1 topbucks.com
 127.0.0.1 topforall.com
 127.0.0.1 topgamesites.net
 127.0.0.1 toplist.cz
