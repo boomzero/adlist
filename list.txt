@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 26 May 2023 13:10:46 GMT
-# entries:        3364
+# last updated:   Fri, 02 Jun 2023 12:23:49 GMT
+# entries:        3368
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1354,7 +1354,9 @@
 127.0.0.1 cuteturkey.com
 127.0.0.1 cxense.com
 127.0.0.1 d.adroll.com
+127.0.0.1 d1f0tbk1v3e25u.cloudfront.net
 127.0.0.1 d2cmedia.ca
+127.0.0.1 d81mfvml8p5ml.cloudfront.net
 127.0.0.1 dabiaozhi.com
 127.0.0.1 dacdn.visualwebsiteoptimizer.com
 127.0.0.1 dacdn.vwo.com
@@ -2926,7 +2928,9 @@
 127.0.0.1 t.visit.disneydestinations.com
 127.0.0.1 t.visitorqueue.com
 127.0.0.1 taboola.com
+127.0.0.1 tag-demo.mention-me.com
 127.0.0.1 tag.links-analytics.com
+127.0.0.1 tag.mention-me.com
 127.0.0.1 tagcommander.com
 127.0.0.1 tagger.opecloud.com
 127.0.0.1 tags.tiqcdn.com
