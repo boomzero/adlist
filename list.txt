@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 07 Jun 2023 21:28:48 GMT
-# entries:        3735
+# entries:        3733
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3025,7 +3025,6 @@
 127.0.0.1 sharethrough.com
 127.0.0.1 sharppatch.com
 127.0.0.1 sher.index.hu
-127.0.0.1 shermore.info
 127.0.0.1 shesubscriptions.com
 127.0.0.1 shinystat.com
 127.0.0.1 shinystat.it
@@ -3713,7 +3712,6 @@
 127.0.0.1 yesadvertising.com
 127.0.0.1 yieldads.com
 127.0.0.1 yieldlab.net
-127.0.0.1 yieldmanager.com
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldoptimizer.com
