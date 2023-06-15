@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 15 Jun 2023 13:43:00 GMT
-# entries:        3737
+# last updated:   Thu, 15 Jun 2023 15:15:38 GMT
+# entries:        3738
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2960,6 +2960,7 @@
 127.0.0.1 sail-horizon.com
 127.0.0.1 samsungacr.com
 127.0.0.1 samsungads.com
+127.0.0.1 sanalytics.disneyplus.com
 127.0.0.1 sanity-dataplane.rudderstack.com
 127.0.0.1 savoryorange.com
 127.0.0.1 saysidewalk.com
