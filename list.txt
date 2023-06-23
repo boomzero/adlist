@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 23 Jun 2023 09:18:39 GMT
-# entries:        3737
+# entries:        3736
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1006,7 +1006,6 @@
 127.0.0.1 analytics.xelondigital.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analyticsapi.happypancake.net
-127.0.0.1 analytik.xyz
 127.0.0.1 ancientact.com
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
@@ -1438,7 +1437,6 @@
 127.0.0.1 clk1015.com
 127.0.0.1 clkrev.com
 127.0.0.1 clksite.com
-127.0.0.1 cloisteredcord.com
 127.0.0.1 cloisteredhydrant.com
 127.0.0.1 closedcows.com
 127.0.0.1 cloudcoins.biz
@@ -2846,6 +2844,7 @@
 127.0.0.1 reactx.com
 127.0.0.1 readgoldfish.com
 127.0.0.1 readingguilt.com
+127.0.0.1 readingopera.com
 127.0.0.1 readserver.net
 127.0.0.1 readymoon.com
 127.0.0.1 realcastmedia.com
