@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 23 Jun 2023 12:23:53 GMT
-# entries:        3737
+# last updated:   Mon, 26 Jun 2023 11:53:23 GMT
+# entries:        3738
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3522,6 +3522,7 @@
 127.0.0.1 ultimateclixx.com
 127.0.0.1 ultramercial.com
 127.0.0.1 ultraoranges.com
+127.0.0.1 unaccountablepie.com
 127.0.0.1 unarmedindustry.com
 127.0.0.1 unbecomingbikes.com
 127.0.0.1 unbecominglamp.com
