@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 26 Jun 2023 11:53:23 GMT
-# entries:        3738
+# last updated:   Mon, 26 Jun 2023 17:38:22 GMT
+# entries:        3739
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2231,6 +2231,7 @@
 127.0.0.1 linkrain.com
 127.0.0.1 linkreferral.com
 127.0.0.1 links-ranking.de
+127.0.0.1 links.email.crunchbase.com
 127.0.0.1 links.zoopla.co.uk
 127.0.0.1 linkshighway.com
 127.0.0.1 linkstorms.com
