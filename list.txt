@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 13 Jul 2023 17:36:33 GMT
-# entries:        3722
+# entries:        3720
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2087,7 +2087,6 @@
 127.0.0.1 instrumentsponge.com
 127.0.0.1 intelliads.com
 127.0.0.1 intelligenceadx.com
-127.0.0.1 intellitxt.com
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 intercom-clicks.com
 127.0.0.1 intergi.com
@@ -2318,7 +2317,6 @@
 127.0.0.1 measuremap.com
 127.0.0.1 meatydime.com
 127.0.0.1 media-adrunner.mycomputer.com
-127.0.0.1 media-servers.net
 127.0.0.1 media.funpic.de
 127.0.0.1 media.net
 127.0.0.1 media01.eu
@@ -2652,7 +2650,6 @@
 127.0.0.1 photographpan.com
 127.0.0.1 physicalbikes.com
 127.0.0.1 piano.io
-127.0.0.1 picadmedia.com
 127.0.0.1 piet2eix3l.com
 127.0.0.1 pietexture.com
 127.0.0.1 pimproll.com
@@ -2835,6 +2832,7 @@
 127.0.0.1 reactx.com
 127.0.0.1 readgoldfish.com
 127.0.0.1 readingguilt.com
+127.0.0.1 readingopera.com
 127.0.0.1 readserver.net
 127.0.0.1 readymoon.com
 127.0.0.1 realcastmedia.com
@@ -3105,6 +3103,7 @@
 127.0.0.1 spezialreporte.de
 127.0.0.1 spidersboats.com
 127.0.0.1 spiffymachine.com
+127.0.0.1 spikyslave.com
 127.0.0.1 spinbox.techtracker.com
 127.0.0.1 spinbox.versiontracker.com
 127.0.0.1 spinnaker-js.com
@@ -3566,7 +3565,6 @@
 127.0.0.1 virtualvincent.com
 127.0.0.1 visiblemeasures.com
 127.0.0.1 visistat.com
-127.0.0.1 visit.webhosting.yahoo.com
 127.0.0.1 visitbox.de
 127.0.0.1 visual-pagerank.fr
 127.0.0.1 visualrevenue.com
