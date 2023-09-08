@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 05 Sep 2023 09:15:50 GMT
-# entries:        3725
+# entries:        3724
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -17,7 +17,6 @@
 127.0.0.1 101order.com
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
-127.0.0.1 1link2020.com
 127.0.0.1 1rx.io
 127.0.0.1 207.net
 127.0.0.1 247media.com
