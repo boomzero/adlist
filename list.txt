@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 05 Sep 2023 09:15:50 GMT
-# entries:        3716
+# last updated:   Fri, 22 Sep 2023 12:54:06 GMT
+# entries:        3717
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2225,6 +2225,7 @@
 127.0.0.1 linkswaper.com
 127.0.0.1 linksynergy.com
 127.0.0.1 linktarget.com
+127.0.0.1 linkvertise.com
 127.0.0.1 liquidad.narrowcastmedia.com
 127.0.0.1 litix.io
 127.0.0.1 liveadexchanger.com
