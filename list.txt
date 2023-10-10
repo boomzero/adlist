@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 10 Oct 2023 09:27:54 GMT
-# entries:        3719
+# last updated:   Tue, 10 Oct 2023 22:29:45 GMT
+# entries:        3720
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2983,6 +2983,7 @@
 127.0.0.1 secretspiders.com
 127.0.0.1 secure.webconnect.net
 127.0.0.1 securedopen-bp.com
+127.0.0.1 securely-protectsoft.com
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
