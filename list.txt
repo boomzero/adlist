@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 10 Oct 2023 22:29:45 GMT
-# entries:        3720
+# last updated:   Wed, 11 Oct 2023 08:14:14 GMT
+# entries:        3722
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1584,6 +1584,7 @@
 127.0.0.1 decoycreation.com
 127.0.0.1 deepintent.com
 127.0.0.1 delegatediscussion.com
+127.0.0.1 delicatecascade.com
 127.0.0.1 deloo.de
 127.0.0.1 deloplen.com
 127.0.0.1 deloton.com
@@ -3634,6 +3635,7 @@
 127.0.0.1 whiskyqueue.com
 127.0.0.1 whispa.com
 127.0.0.1 whisperingcrib.com
+127.0.0.1 whisperingsummit.com
 127.0.0.1 whoisonline.net
 127.0.0.1 wickedreports.com
 127.0.0.1 widespace.com
