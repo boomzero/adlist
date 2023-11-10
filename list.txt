@@ -927,6 +927,7 @@
 127.0.0.1 affiliatetracking.com
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
+127.0.0.1 affiliation-france.com
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afraidlanguage.com
 127.0.0.1 agkn.com
@@ -1569,7 +1570,6 @@
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data8a8altrk.com
 127.0.0.1 daughterstone.com
-127.0.0.1 dbbsrv.com
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
 127.0.0.1 deadpangate.com
