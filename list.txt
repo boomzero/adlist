@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Nov 2023 11:15:20 GMT
-# entries:        3767
+# last updated:   Thu, 30 Nov 2023 11:19:29 GMT
+# entries:        3783
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1058,6 +1058,7 @@
 127.0.0.1 atwola.com
 127.0.0.1 auctionads.com
 127.0.0.1 auctionads.net
+127.0.0.1 aud.pubmatic.com
 127.0.0.1 audience.media
 127.0.0.1 audience2media.com
 127.0.0.1 audienceinsights.com
@@ -1186,6 +1187,7 @@
 127.0.0.1 bewilderedblade.com
 127.0.0.1 bfmio.com
 127.0.0.1 bhcumsc.com
+127.0.0.1 bid.pubmatic.com
 127.0.0.1 bidbarrel.cbsnews.com
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
@@ -1415,6 +1417,7 @@
 127.0.0.1 clicktag.de
 127.0.0.1 clickthruserver.com
 127.0.0.1 clickthrutraffic.com
+127.0.0.1 clicktrack.pubmatic.com
 127.0.0.1 clicktrack.ziyu.net
 127.0.0.1 clicktracks.com
 127.0.0.1 clicktrade.com
@@ -1959,6 +1962,7 @@
 127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 hb.vntsm.com
 127.0.0.1 hbb.afl.rakuten.co.jp
+127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hdscout.com
 127.0.0.1 heap.com
 127.0.0.1 hearinglizards.com
@@ -2047,6 +2051,10 @@
 127.0.0.1 ilead.itrack.it
 127.0.0.1 illfatedsnail.com
 127.0.0.1 illustriousoatmeal.com
+127.0.0.1 image2.pubmatic.com
+127.0.0.1 image3.pubmatic.com
+127.0.0.1 image4.pubmatic.com
+127.0.0.1 image6.pubmatic.com
 127.0.0.1 imagecash.net
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 imarketservices.com
@@ -2582,6 +2590,7 @@
 127.0.0.1 openads.friendfinder.com
 127.0.0.1 openads.org
 127.0.0.1 openadsnetwork.com
+127.0.0.1 openbid.pubmatic.com
 127.0.0.1 openx.angelsgroup.org.uk
 127.0.0.1 openx.cairo360.com
 127.0.0.1 openx.kgmedia.eu
@@ -2607,6 +2616,7 @@
 127.0.0.1 outbrain.com
 127.0.0.1 overconfidentfood.com
 127.0.0.1 overture.com
+127.0.0.1 ow.pubmatic.com
 127.0.0.1 owebanalytics.com
 127.0.0.1 owebmoney.ru
 127.0.0.1 owlsr.us
@@ -2783,7 +2793,6 @@
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 publicidees.com
 127.0.0.1 publicsofa.com
-127.0.0.1 pubmatic.com
 127.0.0.1 pubmine.com
 127.0.0.1 pubnative.net
 127.0.0.1 puffyloss.com
@@ -3062,6 +3071,7 @@
 127.0.0.1 shiverscissors.com
 127.0.0.1 shockinggrass.com
 127.0.0.1 shoppingads.com
+127.0.0.1 showads.pubmatic.com
 127.0.0.1 shrillspoon.com
 127.0.0.1 shxtrk.com
 127.0.0.1 sickflock.com
@@ -3172,7 +3182,9 @@
 127.0.0.1 srvmath.com
 127.0.0.1 srvtrck.com
 127.0.0.1 srwww1.com
+127.0.0.1 sshowads.pubmatic.com
 127.0.0.1 st.dynamicyield.com
+127.0.0.1 st.pubmatic.com
 127.0.0.1 stack-sonar.com
 127.0.0.1 stackadapt.com
 127.0.0.1 stakingscrew.com
@@ -3235,6 +3247,7 @@
 127.0.0.1 stormyachiever.com
 127.0.0.1 storygize.net
 127.0.0.1 stoveseashore.com
+127.0.0.1 strack.pubmatic.com
 127.0.0.1 straightnest.com
 127.0.0.1 stretchsquirrel.com
 127.0.0.1 stripedburst.com
@@ -3286,6 +3299,7 @@
 127.0.0.1 t.news.browns-restaurants.co.uk
 127.0.0.1 t.notif-colissimo-laposte.info
 127.0.0.1 t.podcast.co
+127.0.0.1 t.pubmatic.com
 127.0.0.1 t.salesmatemail.com
 127.0.0.1 t.vacations.disneydestinations.com
 127.0.0.1 t.visit.disneydestinations.com
@@ -3419,6 +3433,7 @@
 127.0.0.1 track.miro.com
 127.0.0.1 track.nationalgunrights.org
 127.0.0.1 track.privacyatclearbit.com
+127.0.0.1 track.pubmatic.com
 127.0.0.1 track.segmetrics.io
 127.0.0.1 track.software-codes.com
 127.0.0.1 track.spe.schoolmessenger.com
@@ -3596,6 +3611,7 @@
 127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vibrantmedia.com
+127.0.0.1 vid.pubmatic.com
 127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
