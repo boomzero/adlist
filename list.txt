@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Nov 2023 11:19:29 GMT
-# entries:        3783
+# last updated:   Thu, 30 Nov 2023 13:25:31 GMT
+# entries:        3784
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -997,6 +997,7 @@
 127.0.0.1 analyticsapi.happypancake.net
 127.0.0.1 ancientact.com
 127.0.0.1 androiddownload.net
+127.0.0.1 angossa.com
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 annoyedairport.com
