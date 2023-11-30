@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Nov 2023 09:25:37 GMT
-# entries:        3722
+# last updated:   Thu, 30 Nov 2023 11:15:20 GMT
+# entries:        3767
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -66,6 +66,7 @@
 127.0.0.1 aaxads.com
 127.0.0.1 aaxdetect.com
 127.0.0.1 abacho.net
+127.0.0.1 abackafterthought.com
 127.0.0.1 abackchain.com
 127.0.0.1 abackframe.com
 127.0.0.1 abandonedaction.com
@@ -90,6 +91,7 @@
 127.0.0.1 actualdeals.com
 127.0.0.1 actuallysheep.com
 127.0.0.1 actuallysnake.com
+127.0.0.1 actuallything.com
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-balancer.at
@@ -857,6 +859,7 @@
 127.0.0.1 advangelists.com
 127.0.0.1 advariant.com
 127.0.0.1 adventory.com
+127.0.0.1 adventurousamount.com
 127.0.0.1 advert.bayarea.com
 127.0.0.1 advert.dyna.ultraweb.hu
 127.0.0.1 adverticum.com
@@ -1016,6 +1019,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 app.pendo.io
 127.0.0.1 app2.salesmanago.pl
+127.0.0.1 apparatuslip.com
 127.0.0.1 appboycdn.com
 127.0.0.1 appmetrica.yandex.ru
 127.0.0.1 appsflyer.com
@@ -1194,6 +1198,7 @@
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
 127.0.0.1 bigreal.org
+127.0.0.1 bikesboard.com
 127.0.0.1 billboard.cz
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bizible.com
@@ -1239,6 +1244,7 @@
 127.0.0.1 braincash.com
 127.0.0.1 brand-display.com
 127.0.0.1 brandreachsys.com
+127.0.0.1 brandybison.com
 127.0.0.1 braze.eu
 127.0.0.1 breadbalance.com
 127.0.0.1 breahant.site
@@ -1246,6 +1252,7 @@
 127.0.0.1 breaktime.com.tw
 127.0.0.1 brealtime.com
 127.0.0.1 bridgetrack.com
+127.0.0.1 briefstem.com
 127.0.0.1 brightcom.com
 127.0.0.1 brightinfo.com
 127.0.0.1 brightmountainmedia.com
@@ -1450,6 +1457,8 @@
 127.0.0.1 commonswing.com
 127.0.0.1 communications.melitaltd.com
 127.0.0.1 compactbanner.com
+127.0.0.1 comparereaction.com
+127.0.0.1 compiledoctor.com
 127.0.0.1 completecabbage.com
 127.0.0.1 complextoad.com
 127.0.0.1 comprabanner.it
@@ -1469,6 +1478,7 @@
 127.0.0.1 content.ad
 127.0.0.1 content22.online.citi.com
 127.0.0.1 contextweb.com
+127.0.0.1 controlcola.com
 127.0.0.1 converge-digital.com
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionbet.com
@@ -1671,6 +1681,7 @@
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
 127.0.0.1 elasticchange.com
+127.0.0.1 elasticducks.com
 127.0.0.1 elderlyscissors.com
 127.0.0.1 elderlytown.com
 127.0.0.1 elephantqueue.com
@@ -1692,6 +1703,7 @@
 127.0.0.1 emodoinc.com
 127.0.0.1 emptyescort.com
 127.0.0.1 emxdigital.com
+127.0.0.1 encourageidea.com
 127.0.0.1 encouragingwilderness.com
 127.0.0.1 endurableshop.com
 127.0.0.1 energeticladybug.com
@@ -1699,6 +1711,7 @@
 127.0.0.1 engagebdr.com
 127.0.0.1 engageya.com
 127.0.0.1 engine.espace.netavenir.com
+127.0.0.1 engineertrick.com
 127.0.0.1 enginenetwork.com
 127.0.0.1 enormousearth.com
 127.0.0.1 enquisite.com
@@ -1738,6 +1751,7 @@
 127.0.0.1 eversales.space
 127.0.0.1 evs.sgmt.loom.com
 127.0.0.1 evyy.net
+127.0.0.1 exampleshake.com
 127.0.0.1 exchange-it.com
 127.0.0.1 exchangead.com
 127.0.0.1 exchangeclicksonline.com
@@ -1757,6 +1771,7 @@
 127.0.0.1 exponea.com
 127.0.0.1 exponential.com
 127.0.0.1 express-submit.de
+127.0.0.1 extractobservation.com
 127.0.0.1 extreme-dm.com
 127.0.0.1 extremetracking.com
 127.0.0.1 eyeblaster.com
@@ -1800,6 +1815,7 @@
 127.0.0.1 fireworks-advertising.com
 127.0.0.1 firstlightera.com
 127.0.0.1 firsttexture.com
+127.0.0.1 fixedfold.com
 127.0.0.1 flairadscpc.com
 127.0.0.1 flakyfeast.com
 127.0.0.1 flashtalking.com
@@ -1822,6 +1838,7 @@
 127.0.0.1 fpctraffic2.com
 127.0.0.1 fpjs.io
 127.0.0.1 fqtag.com
+127.0.0.1 frailflock.com
 127.0.0.1 frailoffer.com
 127.0.0.1 free-banners.com
 127.0.0.1 free-counter.co.uk
@@ -1854,6 +1871,7 @@
 127.0.0.1 futuristicapparatus.com
 127.0.0.1 futuristicfairies.com
 127.0.0.1 futuristicfifth.com
+127.0.0.1 futuristicframe.com
 127.0.0.1 fuzzybasketball.com
 127.0.0.1 fuzzyflavor.com
 127.0.0.1 fuzzyweather.com
@@ -2080,6 +2098,7 @@
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 intercom-clicks.com
 127.0.0.1 intergi.com
+127.0.0.1 internalcondition.com
 127.0.0.1 internetfuel.com
 127.0.0.1 interreklame.de
 127.0.0.1 intnotif.club
@@ -2227,10 +2246,12 @@
 127.0.0.1 livelylaugh.com
 127.0.0.1 livelyreward.com
 127.0.0.1 liverail.com
+127.0.0.1 livingsleet.com
 127.0.0.1 lizardslaugh.com
 127.0.0.1 lkqd.com
 127.0.0.1 lnks.gd
 127.0.0.1 loading321.com
+127.0.0.1 loadsurprise.com
 127.0.0.1 locked4.com
 127.0.0.1 lockerdome.com
 127.0.0.1 locpub.com
@@ -2375,6 +2396,7 @@
 127.0.0.1 mintegral.com
 127.0.0.1 minusmental.com
 127.0.0.1 minuterhythm.com
+127.0.0.1 mittencattle.com
 127.0.0.1 mix2ads.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
@@ -2408,6 +2430,7 @@
 127.0.0.1 monsterpops.com
 127.0.0.1 mookie1.com
 127.0.0.1 mopub.com
+127.0.0.1 motionlessmeeting.com
 127.0.0.1 motionspots.com
 127.0.0.1 mousestats.com
 127.0.0.1 movad.net
@@ -2450,6 +2473,7 @@
 127.0.0.1 naj.sk
 127.0.0.1 naj22.proasdf.com
 127.0.0.1 nappyattack.com
+127.0.0.1 nappyneck.com
 127.0.0.1 nastydollars.com
 127.0.0.1 nativeroll.tv
 127.0.0.1 navegg.com
@@ -2506,6 +2530,7 @@
 127.0.0.1 ntvk1.ru
 127.0.0.1 nullitics.com
 127.0.0.1 nuseek.com
+127.0.0.1 nutritiousbean.com
 127.0.0.1 nuttyorganization.com
 127.0.0.1 nzaza.com
 127.0.0.1 o2.mouseflow.com
@@ -2576,6 +2601,7 @@
 127.0.0.1 optmstr.com
 127.0.0.1 optnmstr.com
 127.0.0.1 optnx.com
+127.0.0.1 orionember.com
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otto-images.developershed.com
 127.0.0.1 outbrain.com
@@ -2592,6 +2618,7 @@
 127.0.0.1 p-n.io
 127.0.0.1 p.nag.ru
 127.0.0.1 p2r14.com
+127.0.0.1 paddleangle.com
 127.0.0.1 padsbrown.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
@@ -2680,6 +2707,7 @@
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
 127.0.0.1 popmyads.com
+127.0.0.1 popplantation.com
 127.0.0.1 popub.com
 127.0.0.1 popunder.ru
 127.0.0.1 popunhot1.blogspot.com
@@ -2712,6 +2740,8 @@
 127.0.0.1 prmtracking.com
 127.0.0.1 pro-advertising.com
 127.0.0.1 pro-market.net
+127.0.0.1 probablepartner.com
+127.0.0.1 processplantation.com
 127.0.0.1 producecopy.com
 127.0.0.1 proext.com
 127.0.0.1 profero.com
@@ -2752,6 +2782,7 @@
 127.0.0.1 pubdirecte.com
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 publicidees.com
+127.0.0.1 publicsofa.com
 127.0.0.1 pubmatic.com
 127.0.0.1 pubmine.com
 127.0.0.1 pubnative.net
@@ -2793,6 +2824,7 @@
 127.0.0.1 quicksandear.com
 127.0.0.1 quietknowledge.com
 127.0.0.1 quinst.com
+127.0.0.1 quirkysugar.com
 127.0.0.1 quisma.com
 127.0.0.1 quizzicalzephyr.com
 127.0.0.1 r.logrocket.io
@@ -2812,6 +2844,7 @@
 127.0.0.1 railwayrainstorm.com
 127.0.0.1 railwayreason.com
 127.0.0.1 rambunctiousflock.com
+127.0.0.1 rambunctiousvoyage.com
 127.0.0.1 rampidads.com
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
@@ -2867,6 +2900,7 @@
 127.0.0.1 reklamcsere.hu
 127.0.0.1 reklamdsp.com
 127.0.0.1 relmaxtop.com
+127.0.0.1 rememberdiscussion.com
 127.0.0.1 remox.com
 127.0.0.1 republika.onet.pl
 127.0.0.1 resalag.com
@@ -2899,6 +2933,7 @@
 127.0.0.1 ringplant.com
 127.0.0.1 ringsrecord.com
 127.0.0.1 ritzykey.com
+127.0.0.1 ritzyrepresentative.com
 127.0.0.1 rlcdn.com
 127.0.0.1 rle.ru
 127.0.0.1 rmads.msn.com
@@ -2909,6 +2944,7 @@
 127.0.0.1 rockabox.co
 127.0.0.1 roia.biz
 127.0.0.1 rok.com.com
+127.0.0.1 rollconnection.com
 127.0.0.1 rose.ixbt.com
 127.0.0.1 rotabanner.com
 127.0.0.1 roughroll.com
@@ -2992,6 +3028,8 @@
 127.0.0.1 semasio.net
 127.0.0.1 sendmepixel.com
 127.0.0.1 separatesilver.com
+127.0.0.1 seraphichorizon.com
+127.0.0.1 serendipityecho.com
 127.0.0.1 serpentshampoo.com
 127.0.0.1 serv0.com
 127.0.0.1 servads.net
@@ -3091,6 +3129,7 @@
 127.0.0.1 sordidsmile.com
 127.0.0.1 sordidstation.com
 127.0.0.1 sortable.com
+127.0.0.1 sortsail.com
 127.0.0.1 sourcepoint.vice.com
 127.0.0.1 sovrn.com
 127.0.0.1 spacash.com
@@ -3190,6 +3229,7 @@
 127.0.0.1 stiffgame.com
 127.0.0.1 stimulatingsneeze.com
 127.0.0.1 stomachscience.com
+127.0.0.1 stopstomach.com
 127.0.0.1 storesurprise.com
 127.0.0.1 storetail.io
 127.0.0.1 stormyachiever.com
@@ -3227,6 +3267,7 @@
 127.0.0.1 swan-swan-goose.com
 127.0.0.1 swankysquare.com
 127.0.0.1 swimslope.com
+127.0.0.1 swingslip.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 swordgoose.com
 127.0.0.1 synonymoussticks.com
@@ -3315,6 +3356,7 @@
 127.0.0.1 themoneytizer.com
 127.0.0.1 therapistla.com
 127.0.0.1 thinkablerice.com
+127.0.0.1 thinkitten.com
 127.0.0.1 thirdparty.bnc.lt
 127.0.0.1 thirdrespect.com
 127.0.0.1 thirstytwig.com
@@ -3574,6 +3616,7 @@
 127.0.0.1 vivtracking.com
 127.0.0.1 vmmpxl.com
 127.0.0.1 voicefive.com
+127.0.0.1 voicelessvein.com
 127.0.0.1 voicevegetable.com
 127.0.0.1 volatilevessel.com
 127.0.0.1 voluum.com
@@ -3592,6 +3635,7 @@
 127.0.0.1 warlog.ru
 127.0.0.1 warmafterthought.com
 127.0.0.1 waryfog.com
+127.0.0.1 washbanana.com
 127.0.0.1 wateryvan.com
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 wdfl.co
@@ -3650,6 +3694,7 @@
 127.0.0.1 wirypaste.com
 127.0.0.1 wisepops.com
 127.0.0.1 witch-counter.de
+127.0.0.1 wittypopcorn.com
 127.0.0.1 wizaly.com
 127.0.0.1 wl.spotify.com
 127.0.0.1 wlmarketing.com
