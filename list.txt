@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 25 Nov 2023 09:44:42 GMT
-# entries:        3720
+# last updated:   Thu, 30 Nov 2023 09:25:37 GMT
+# entries:        3722
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1745,6 +1745,7 @@
 127.0.0.1 exclusivebrass.com
 127.0.0.1 exelate.com
 127.0.0.1 exelator.com
+127.0.0.1 exhibitsneeze.com
 127.0.0.1 exit76.com
 127.0.0.1 exitexchange.com
 127.0.0.1 exitfuel.com
@@ -3517,6 +3518,7 @@
 127.0.0.1 untidyquestion.com
 127.0.0.1 unusualtitle.com
 127.0.0.1 unwieldyhealth.com
+127.0.0.1 unwieldyimpulse.com
 127.0.0.1 unwrittenspot.com
 127.0.0.1 upu.samsungelectronics.com
 127.0.0.1 urlcash.net
