@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Nov 2023 13:25:31 GMT
-# entries:        3778
+# last updated:   Fri, 01 Dec 2023 17:02:27 GMT
+# entries:        3779
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3607,6 +3607,7 @@
 127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vibrantmedia.com
+127.0.0.1 vibrantsundown.com
 127.0.0.1 vid.pubmatic.com
 127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com
