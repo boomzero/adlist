@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 07 Dec 2023 11:18:00 GMT
-# entries:        3780
+# last updated:   Fri, 08 Dec 2023 10:16:08 GMT
+# entries:        3781
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3419,6 +3419,7 @@
 127.0.0.1 tour.brazzers.com
 127.0.0.1 track.adform.net
 127.0.0.1 track.anchorfree.com
+127.0.0.1 track.canva.com
 127.0.0.1 track.contently.com
 127.0.0.1 track.effiliation.com
 127.0.0.1 track.flexlinks.com
