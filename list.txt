@@ -21,6 +21,7 @@
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
+127.0.0.1 24log.de
 127.0.0.1 24pm-affiliation.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
@@ -198,7 +199,6 @@
 127.0.0.1 adblade.com
 127.0.0.1 adblade.org
 127.0.0.1 adblockanalytics.com
-127.0.0.1 adbooth.net
 127.0.0.1 adbot.com
 127.0.0.1 adbrite.com
 127.0.0.1 adbroker.de
