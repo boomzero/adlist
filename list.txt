@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 21 Dec 2023 14:03:25 GMT
-# entries:        3785
+# entries:        3784
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2517,6 +2517,8 @@
 127.0.0.1 newnet.qsrch.com
 127.0.0.1 newnudecash.com
 127.0.0.1 newopenx.detik.com
+127.0.0.1 newsadsppush.com
+127.0.0.1 newsletter-link.com
 127.0.0.1 newstarads.com
 127.0.0.1 newt1.adultadworld.com
 127.0.0.1 newt1.adultworld.com
@@ -3321,7 +3323,6 @@
 127.0.0.1 takethatad.com
 127.0.0.1 talentedsteel.com
 127.0.0.1 tamgrt.com
-127.0.0.1 tangerinenet.biz
 127.0.0.1 tangibleteam.com
 127.0.0.1 tangyamount.com
 127.0.0.1 tapad.com
@@ -3363,7 +3364,6 @@
 127.0.0.1 terriblethumb.com
 127.0.0.1 text-link-ads.com
 127.0.0.1 textad.sexsearch.com
-127.0.0.1 textads.biz
 127.0.0.1 textlinks.com
 127.0.0.1 tfag.de
 127.0.0.1 the-ozone-project.com
@@ -3466,7 +3466,6 @@
 127.0.0.1 tracking.39-bb4a9-osm.co.uk
 127.0.0.1 tracking.42-01pr5-osm-secure.co.uk
 127.0.0.1 tracking.5-47737-bi.co.uk
-127.0.0.1 tracking.emilyclarkconsulting.com
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.exipure.com
 127.0.0.1 tracking.hyros.com
