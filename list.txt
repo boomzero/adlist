@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Jan 2024 11:02:22 GMT
-# entries:        3788
+# last updated:   Fri, 05 Jan 2024 09:47:27 GMT
+# entries:        3789
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2616,6 +2616,7 @@
 127.0.0.1 optmstr.com
 127.0.0.1 optnmstr.com
 127.0.0.1 optnx.com
+127.0.0.1 orientedargument.com
 127.0.0.1 orionember.com
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otto-images.developershed.com
