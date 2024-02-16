@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 16 Feb 2024 09:27:32 GMT
-# entries:        3783
+# entries:        3781
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -759,7 +759,6 @@
 127.0.0.1 adserver.twitpic.com
 127.0.0.1 adserver.virginmedia.com
 127.0.0.1 adserver.waggonerguide.com
-127.0.0.1 adserver.yahoo.com
 127.0.0.1 adserver01.de
 127.0.0.1 adserver1.mindshare.de
 127.0.0.1 adserver2.mindshare.de
@@ -1055,6 +1054,7 @@
 127.0.0.1 audit.median.hu
 127.0.0.1 audit.webinform.hu
 127.0.0.1 augur.io
+127.0.0.1 auto-bannertausch.de
 127.0.0.1 automaticflock.com
 127.0.0.1 avalonalbum.com
 127.0.0.1 avazutracking.net
@@ -1840,7 +1840,6 @@
 127.0.0.1 freebanner.com
 127.0.0.1 freecounterstat.com
 127.0.0.1 freelogs.com
-127.0.0.1 freeonlineusers.com
 127.0.0.1 freepay.com
 127.0.0.1 freeskreen.com
 127.0.0.1 freestats.com
@@ -2846,7 +2845,6 @@
 127.0.0.1 raac33.net
 127.0.0.1 rabbitrifle.com
 127.0.0.1 radar.cedexis.com
-127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
 127.0.0.1 radiateprose.com
 127.0.0.1 rads.realadmin.pl
