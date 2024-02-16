@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 08 Feb 2024 09:22:05 GMT
-# entries:        3782
+# last updated:   Fri, 16 Feb 2024 09:27:32 GMT
+# entries:        3783
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2140,6 +2140,7 @@
 127.0.0.1 js.users.51.la
 127.0.0.1 jsecoin.com
 127.0.0.1 jsrdn.com
+127.0.0.1 jubilantglimmer.com
 127.0.0.1 juicyads.com
 127.0.0.1 juicyads.me
 127.0.0.1 jumptap.com
