@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 05 May 2024 19:21:23 GMT
-# entries:        3731
+# entries:        3730
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1015,7 +1015,6 @@
 127.0.0.1 ard.xxxblackbook.com
 127.0.0.1 argyresthia.com
 127.0.0.1 aromamirror.com
-127.0.0.1 artisany.net
 127.0.0.1 as.webmd.com
 127.0.0.1 as2.adserverhd.com
 127.0.0.1 aserv.motorsgate.com
