@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 29 May 2024 22:00:25 GMT
-# entries:        3729
+# entries:        3724
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -65,20 +65,15 @@
 127.0.0.1 aax-eu-dub.amazon.com
 127.0.0.1 aaxads.com
 127.0.0.1 abacho.net
-127.0.0.1 abackafterthought.com
-127.0.0.1 abackchain.com
-127.0.0.1 abandonedaction.com
 127.0.0.1 abc-ads.com
 127.0.0.1 ablink.comms.trainline.com
 127.0.0.1 ablink.news.emails-puregym.com
 127.0.0.1 ablinks.mail.hinge.co
 127.0.0.1 aboardlevel.com
 127.0.0.1 abruptroad.com
-127.0.0.1 absentstream.com
 127.0.0.1 absorbingband.com
 127.0.0.1 absorbingcorn.com
 127.0.0.1 abstractedauthority.com
-127.0.0.1 absurdwater.com
 127.0.0.1 abtasty.com
 127.0.0.1 ac.rnm.ca
 127.0.0.1 acemlnb.com
