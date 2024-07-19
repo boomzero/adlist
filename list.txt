@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 16 Jul 2024 19:22:38 GMT
-# entries:        3546
+# entries:        3547
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -184,6 +184,7 @@
 127.0.0.1 adadvisor.net
 127.0.0.1 adalliance.io
 127.0.0.1 adanging.blog
+127.0.0.1 adap.tv
 127.0.0.1 adapt.tv
 127.0.0.1 adaranth.com
 127.0.0.1 adbilty.me
