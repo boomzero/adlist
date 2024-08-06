@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 06 Aug 2024 10:50:41 GMT
-# entries:        3548
+# last updated:   Tue, 06 Aug 2024 11:39:59 GMT
+# entries:        3549
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2554,6 +2554,7 @@
 127.0.0.1 pluckypocket.com
 127.0.0.1 plugrush.com
 127.0.0.1 pocketfaucet.com
+127.0.0.1 poemprompt.com
 127.0.0.1 pointlesshour.com
 127.0.0.1 pointlessprofit.com
 127.0.0.1 pointroll.com
