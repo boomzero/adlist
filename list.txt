@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 06 Aug 2024 11:39:59 GMT
-# entries:        3549
+# last updated:   Tue, 06 Aug 2024 20:56:31 GMT
+# entries:        3554
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1589,6 +1589,7 @@
 127.0.0.1 elitedollars.com
 127.0.0.1 elitetoplist.com
 127.0.0.1 em1.yoursantander.co.uk
+127.0.0.1 email-link.adtidy.info
 127.0.0.1 email-link.adtidy.net
 127.0.0.1 email-link.adtidy.org
 127.0.0.1 email-links.crowdfireapp.com
@@ -2148,6 +2149,7 @@
 127.0.0.1 lucidmedia.com
 127.0.0.1 luckyorange.com
 127.0.0.1 ludicrousarch.com
+127.0.0.1 lyricshook.com
 127.0.0.1 lytics.io
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com
@@ -2465,6 +2467,7 @@
 127.0.0.1 otto-images.developershed.com
 127.0.0.1 outbrain.com
 127.0.0.1 overconfidentfood.com
+127.0.0.1 overkick.com
 127.0.0.1 overture.com
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 owebanalytics.com
@@ -2946,6 +2949,7 @@
 127.0.0.1 softclick.com.br
 127.0.0.1 soggysponge.com
 127.0.0.1 soggyzoo.com
+127.0.0.1 soicos.com
 127.0.0.1 sombersea.com
 127.0.0.1 sombersquirrel.com
 127.0.0.1 sombersurprise.com
@@ -3065,6 +3069,7 @@
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
 127.0.0.1 superawesome.tv
+127.0.0.1 superchichair.com
 127.0.0.1 superclix.de
 127.0.0.1 superficialsquare.com
 127.0.0.1 supersonicads.com
