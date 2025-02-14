@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 13 Feb 2025 18:46:06 GMT
-# entries:        3542
+# entries:        3537
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -37,8 +37,6 @@
 127.0.0.1 4jnzhl0d0.com
 127.0.0.1 50websads.com
 127.0.0.1 518ad.com
-127.0.0.1 5mcwl.pw
-127.0.0.1 6ldu6qa.com
 127.0.0.1 6sc.co
 127.0.0.1 777partner.com
 127.0.0.1 77tracking.com
@@ -71,7 +69,6 @@
 127.0.0.1 ablink.news.emails-puregym.com
 127.0.0.1 ablinks.mail.hinge.co
 127.0.0.1 aboardlevel.com
-127.0.0.1 abruptroad.com
 127.0.0.1 absorbingband.com
 127.0.0.1 abstractedauthority.com
 127.0.0.1 abtasty.com
@@ -343,7 +340,6 @@
 127.0.0.1 ads-bilek.com
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
-127.0.0.1 ads-kesselhaus.com
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.365.mk
@@ -364,7 +360,6 @@
 127.0.0.1 ads.adultfriendfinder.com
 127.0.0.1 ads.advance.net
 127.0.0.1 ads.adverline.com
-127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.alive.com
 127.0.0.1 ads.alt.com
 127.0.0.1 ads.amdmb.com
