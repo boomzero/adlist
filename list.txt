@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 27 Feb 2025 02:45:23 GMT
-# entries:        3472
+# entries:        3474
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -180,6 +180,7 @@
 127.0.0.1 adalliance.io
 127.0.0.1 adanging.blog
 127.0.0.1 adap.tv
+127.0.0.1 adapt.tv
 127.0.0.1 adbilty.me
 127.0.0.1 adblade.com
 127.0.0.1 adblade.org
@@ -376,6 +377,7 @@
 127.0.0.1 ads.bigchurch.com
 127.0.0.1 ads.bigfoot.com
 127.0.0.1 ads.bing.com
+127.0.0.1 ads.bittorrent.com
 127.0.0.1 ads.blog.com
 127.0.0.1 ads.bluemountain.com
 127.0.0.1 ads.boerding.com
