@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 27 Feb 2025 02:45:23 GMT
-# entries:        3474
+# entries:        3469
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -715,7 +715,6 @@
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.scr.sk
 127.0.0.1 adserver.smgfiles.com
-127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.trojaner-info.de
 127.0.0.1 adserver.tupolska.com
 127.0.0.1 adserver.twitpic.com
@@ -977,7 +976,6 @@
 127.0.0.1 at-o.net
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
-127.0.0.1 ato.mx
 127.0.0.1 attractionbanana.com
 127.0.0.1 attribution.report
 127.0.0.1 atwola.com
@@ -2003,7 +2001,6 @@
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
 127.0.0.1 lbn.ru
-127.0.0.1 lead02.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
 127.0.0.1 leadinfo.net
@@ -2588,9 +2585,7 @@
 127.0.0.1 puffypull.com
 127.0.0.1 puffypurpose.com
 127.0.0.1 pureclarity.net
-127.0.0.1 pushame.com
 127.0.0.1 pushance.com
-127.0.0.1 pushazer.com
 127.0.0.1 pushengage.com
 127.0.0.1 pushno.com
 127.0.0.1 pushtrack.co
