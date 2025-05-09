@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 01 May 2025 11:16:00 GMT
-# entries:        3441
+# entries:        3442
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -20,6 +20,7 @@
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
+127.0.0.1 24pm-affiliation.com
 127.0.0.1 2linkpath.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
